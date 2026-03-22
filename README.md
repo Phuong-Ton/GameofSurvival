@@ -1,6 +1,9 @@
 # GameofSurvival
 **- This simulation like "Game of Survival" that plays out on a grid.**
-Humans (Green) trying to get to a Safe Zone (Cyan) without getting caught by Zombies (Red). If a Zombie "tags" a Human, that Human turns into a Zombie. But, if a Human finds a Weapon (Orange), they "level up" and become a Soldier (Blue).  Walls (Grey) are like locked doors that block the way for everyone. 
+Humans (Green) trying to get to a Safe Zone (Cyan) without getting caught by Zombies (Red). 
+If a Zombie "tags" a Human, that Human turns into a Zombie. 
+But, if a Human finds a Weapon (Orange), they "level up" and become a Soldier (Blue). 
+Walls (Grey) are like locked doors that block the way for everyone. 
 
 **- Game Rules**
 The game ends when the number of steps reaches 0. The game starts with 50 steps and counts down to 0.
