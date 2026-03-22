@@ -1,0 +1,13 @@
+11
+13
+H--Z------Z-S
+XXX---X------
+X---Z-X------
+X-H---X---XXX
+X---Z-X-H--WX
+X-----X-----X
+-S---XX-OOOOX
+--Z---Z-OOOOX
+XW--H--WOOOOX
+XXXXXX-XOOOOX
+-Z-----XXXXXX
