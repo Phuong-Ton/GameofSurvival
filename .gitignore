@@ -6,7 +6,8 @@ out/
 .kotlin
 
 .idea/
-!**/src/main/**/.idea/
+.idea/
+*.iml
 ### Eclipse ###
 .apt_generated
 .classpath
