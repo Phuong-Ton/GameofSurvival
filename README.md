@@ -21,5 +21,5 @@
   ■ The simulation can load a map from a file. <br /> 
   ■ It can also save the current map to an output file to store the game status. <br /> 
   ■ The saved output file can later be loaded to continue the simulation. <br /> 
-  ■ The simulation can also reset the current map.
+  ■ The simulation can also reset the current map. <br /> 
 ![Game of Survival](https://github.com/user-attachments/assets/a1b7cf49-f0bc-4b22-91a2-71faf14ba0d8)
