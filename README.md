@@ -14,7 +14,7 @@
   ■ +1 Zombie point if a Zombie tags a Human. <br /> 
 
 ## **End game:**
-  ■ When the step limit (50 steps) is reached, the game compares the points of Humans and Zombies.
+  ■ When the step limit (50 steps) is reached, the game compares the points of Humans and Zombies. <br /> 
   ■ If Human points ≥ Zombie points, Humans win. Otherwise, Zombies win.
 
 ## **Simulation Features** <br /> 
