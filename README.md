@@ -1,4 +1,4 @@
-# GameofSurvival
+# Game of Survival
 ## **This simulation like "Game of Survival" that plays out on a grid.** <br /> 
   ■ Humans (Green) trying to get to a Safe Zone (Cyan) without getting caught by Zombies (Red).  <br /> 
   ■ If a Zombie "tags" a Human, that Human turns into a Zombie.  <br /> 
