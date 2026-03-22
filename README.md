@@ -22,4 +22,4 @@
   ■ It can also save the current map to an output file to store the game status. <br /> 
   ■ The saved output file can later be loaded to continue the simulation. <br /> 
   ■ The simulation can also reset the current map.
-!Zombies apocalypse](https://github.com/user-attachments/assets/fb7b72ab-f7e9-488a-8a4e-327bee132fce)
+![Game of Survival](https://github.com/user-attachments/assets/a1b7cf49-f0bc-4b22-91a2-71faf14ba0d8)
