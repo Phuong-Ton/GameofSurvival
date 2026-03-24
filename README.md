@@ -26,5 +26,5 @@
 ## **Demo** <br /> 
 ![Game of Survival](https://github.com/user-attachments/assets/a1b7cf49-f0bc-4b22-91a2-71faf14ba0d8)
 
-## **Logic analysic <br/>
+## **Logic analysic** <br/>
 https://docs.google.com/spreadsheets/d/1tpiy8Ih7C2EMl_M_QUWzvUv51UFCLf1T/edit?gid=1559057800#gid=1559057800
