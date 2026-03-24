@@ -5,7 +5,7 @@
   ■ But, if a Human finds a Weapon (Orange), they "level up" and become a Soldier (Blue).  <br /> 
   ■ Walls (Grey) are like locked doors that block the way for everyone.  <br /> 
 
-## **Game Rules** <br /> 
+## **Game Rules:** <br /> 
   ■ The game ends when the number of steps reaches 0. The game starts with 50 steps and counts down to 0.
 
 ## **Points System** <br /> 
@@ -23,8 +23,8 @@
   ■ The saved output file can later be loaded to continue the simulation. <br /> 
   ■ The simulation can also reset the current map. <br /> 
 
-## **Demo** <br /> 
+## **Demo:** <br /> 
 ![Game of Survival](https://github.com/user-attachments/assets/a1b7cf49-f0bc-4b22-91a2-71faf14ba0d8)
 
-## **Logic analysic** <br/>
+## **Logic analysis: ** <br/>
 https://docs.google.com/spreadsheets/d/1tpiy8Ih7C2EMl_M_QUWzvUv51UFCLf1T/edit?gid=1559057800#gid=1559057800
